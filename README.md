@@ -13,7 +13,7 @@ The code is documented and designed to be easy to extend. If you use it in your 
 ## Datasets 
 there are many Datasets used in M3DMR
  
- * COCO,ImageNet, and ResNet18 Dataset
+ * COCO,ImageNet, and KITTI Dataset
  
 ## Requirements
 TensorFlow using Python, OpenGL, and open3D, GPU
